@@ -15,7 +15,7 @@ public class Elmayor {
 		System.out.println("Ingresa el Numero 2");
 		
 		n2=entrada.nextInt();		
-		
+		                                                                                 
 		System.out.println("Ingresa el Numero 3");
 		
 		n3=entrada.nextInt();
@@ -37,7 +37,7 @@ public class Elmayor {
 		else {
 			System.out.println(n2+" > "+n1+" > "+n3);
 		}
-
+ entrada.close();
 	}
 
 }

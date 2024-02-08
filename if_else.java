@@ -40,6 +40,7 @@ public class if_else {
 
 			
 			System.out.println(n3+" > "+n2+" > "+n1);
+			entrada.close();
 		}
 	
 }

@@ -20,7 +20,7 @@ public class Hpotenusa {
 		
 		System.out.println("La hipotenusa es: "+Hipo);
 		
-			
+	entrada.close();		
 	}
 
 }
